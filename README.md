@@ -30,3 +30,5 @@ To pull changes from a remote repository: git pull ***remote name*** ***branch n
 
 To push changes to a remote repository: 
 git push ***branch name***
+
+Entries that can be changed are in bold
