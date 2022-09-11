@@ -1,0 +1,35 @@
+#Document
+
+
+Sign up for github
+Create a main repo
+Add a read me
+
+cd into working directory
+
+git clone https://github.com/...
+Open folder through VS Code
+Be sure you're in bash in terminal
+git pull your main repo
+git checkout -b ***newreponame***
+Make changes
+Git add . 
+Git commit -m "commit message"
+
+#First time will need to run ***git config***
+
+ git push --set-upstream origin ***branch__name***
+
+Create pull requests
+
+Approver will... Merge pull request
+
+
+
+TO DO
+
+adding ssh keys
+rebasing
+tagging
+resolving merge/rebase conflicts
+
