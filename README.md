@@ -1,5 +1,3 @@
-# repo2
-
 #This document is to show steps towards a full git repository and all commands
 
 Common GitHub Commands
