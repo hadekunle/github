@@ -1,3 +1,14 @@
+  <!--
+
+  <details>
+  <summary>Collapsable template</summary>
+  </details>
+
+ -->
+ 
+ <details>
+  <summary>Heading styles</summary>
+  
 # This is normal text
 
 ## This is normal text
@@ -9,7 +20,12 @@
 ##### This is normal text
 
 ###### This is normal text
+  
+</details>
 
+
+ <details>
+  <summary>Text Styling</summary>
 This is **normal text** (bold) **
 
 This is *normal text* (italic) *
@@ -19,14 +35,73 @@ This is *normal text* (italic) *
 This is my new idea (normal)
 
 This is  [website](https://www.google.com) link
-
+  
 - [ ] item 1
 
 - [x] item 2
 
 - [ ] item 3
 
+  
+</details>
+
+
+<details>
+  <summary> Table </summary>
+
+
 | heading 1 | heading 2 | heading 3 |
 | :--- | :---: | ---: |
 |row 1 column 1 | row 1 column 2 | row 1 column 3 |
 
+  </details>
+This is inline code `const name = ToheebS `
+
+ 
+
+> I think we should go with option 1 of create a website
+
+<!-- This is a comment -->
+
+
+<details>
+  <summary>Click for more information</summary>
+  
+  
+```ts 
+## Typescript
+const name = ToheebS
+favorite sport = soccer
+favorite sport = football
+```
+
+```python 
+## Python
+const name = ToheebS
+favorite sport = soccer
+favorite sport = football
+```
+
+```js
+## Javascript
+const name = ToheebS
+favorite sport = soccer
+favorite sport = football
+```
+
+```css
+## CSS
+const name = ToheebS
+favorite sport = soccer
+favorite sport = football
+```
+
+```diff
+# Changes using diff
+const name = ToheebS
+-favorite sport = football
++favorite sport = soccer
+```
+  
+ </details>
+  
