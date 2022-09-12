@@ -10,7 +10,7 @@ This is *normal text*
 
 This is my new idea
 
-This is  [website](www.google.com) link
+This is  [website](https://www.google.com) link
 
 - [ ] item 1
 
