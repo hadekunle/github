@@ -1,12 +1,13 @@
   <!--
 
-  <details>
+<details>
   <summary>Collapsable template</summary>
-  </details>
+
+</details>
 
  -->
  
- <details>
+<details>
   <summary>Heading styles</summary>
   
 # This is normal text
@@ -34,7 +35,7 @@ This is *normal text* (italic) *
 
 This is my new idea (normal)
 
-This is  [website](https://www.google.com) link
+This is  [website](https://www.google.com) link to google
   
 - [ ] item 1
 
@@ -54,7 +55,10 @@ This is  [website](https://www.google.com) link
 | :--- | :---: | ---: |
 |row 1 column 1 | row 1 column 2 | row 1 column 3 |
 
-  </details>
+</details>
+
+<details>
+  <summary>Code </summary>
 This is inline code `const name = ToheebS `
 
  
@@ -62,11 +66,6 @@ This is inline code `const name = ToheebS `
 > I think we should go with option 1 of create a website
 
 <!-- This is a comment -->
-
-
-<details>
-  <summary>Click for more information</summary>
-  
   
 ```ts 
 ## Typescript
@@ -103,5 +102,8 @@ const name = ToheebS
 +favorite sport = soccer
 ```
   
- </details>
+</details>
   
+
+
+
