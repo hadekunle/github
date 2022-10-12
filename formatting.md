@@ -18,6 +18,8 @@
 
 #### This is normal text
 
+This is normal text 
+  
 ##### This is normal text
 
 ###### This is normal text
